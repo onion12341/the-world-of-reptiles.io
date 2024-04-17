@@ -1,0 +1,53 @@
+.color-green{
+background:linear-gradient( #153512, #000 );
+} 
+.slider-dark{
+background: rgba(0,0,0,0.5);
+ padding: 50px;
+    border-radius: 10px;
+    box-shadow:0 0 20px #00D834;
+}
+.slider-dark p{
+font-weight: bolt;
+font-size: 20px;
+text-transform: uppercase;
+}
+.arrow-slider{
+background: #00D834;
+border-radius: 50%;
+}
+.arrow-slider:hover{
+ background: #000;   
+}
+.uk-button-primary{
+background: #000 !important;
+color: cadetblue !important;
+}
+.uk-button-primary:hover {
+background: #fff !important;
+}
+.custom-body{
+background: #fff;
+    color: #000;
+}
+.custom-body h3{
+color: #000  !important;
+}
+
+.footer-card{
+background: rgba(255,255,255,0.1);
+padding: 20px;
+border-radius: 20px;
+}
+
+.footer-card p{
+font-size: 18px;
+
+}
+
+.menu-container{
+padding-left: 20px;
+padding-right: 20px;
+color:darkolivegreen !important;
+}
+
